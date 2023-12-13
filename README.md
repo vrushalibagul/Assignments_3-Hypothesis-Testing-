@@ -1,1 +1,1 @@
-# Assignments_3-Hypothesis-Testing-
+# Assignments_3_Hypothesis-Testing
